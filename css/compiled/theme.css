@@ -35,7 +35,7 @@ header {
 /* Navbar
 -------------------------------------------------- */
 .navbar {
-  padding: 10px 10px 10px 10px; }
+  padding: 10px 0px 10px 0px; }
   .navbar.navbar-inverse {
     background: rgba(36, 66, 16, 0.4);
     border-bottom: 1px solid #585858; }
@@ -72,8 +72,8 @@ header {
       margin-top: 0px !important;
       margin-bottom: 0px !important; }
   .navbar .container {
-    /*margin-top: 10px;
-    margin-bottom: 10px;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
     -webkit-transition: margin .2s ease-in-out;
     -moz-transition: margin .2s ease-in-out;
     transition: margin .2s ease-in-out; }
@@ -95,7 +95,9 @@ header {
         color: #fff; }
         .navbar .container .collapse .nav .dropdown .dropdown-menu > li > a:hover {
           background: #08c; }
-
+.navbar-right {
+  margin-top:10px;
+}
 .section_header {
   width: 100%;
   margin-bottom: 60px; }
@@ -308,7 +310,7 @@ header {
     padding-top: 0 !important; }
 
   .navbar.navbar-inverse {
-    background: #252528; } }
+    background: #1F4A21; } }
 @media (min-width: 768px) and (max-width: 991px) {
   .navbar {
     margin-bottom: 0; }
