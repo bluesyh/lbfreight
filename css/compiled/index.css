@@ -121,10 +121,10 @@
         -moz-transition: opacity .1s linear;
         transition: opacity .1s linear; }
     #feature_slider .slide#responsive .info {
-      position: absolute;
-      top: 300px;
-      right: 9%;
-      width: 25%; }
+      position: relative;
+      top: 560px;
+      text-align: center;
+    }
       #feature_slider .slide#responsive .info h2 {
         color: #fff;
         font-size: 47px;
