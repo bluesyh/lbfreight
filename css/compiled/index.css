@@ -244,6 +244,7 @@
   margin-top: 70px;
   margin-bottom: -20px; }
   #features .feature {
+    margin-top:44px;
     border-bottom: 1px solid #e0e0e0;
     margin-bottom: 65px; }
     #features .feature .info h3 {
@@ -255,6 +256,7 @@
         top: -10px; }
     #features .feature .info p {
       margin-top: 15px; }
+      #features .feature div { margin-bottom: 46px; }
 
 /* Pricing charts
 -------------------------------------------------- */
