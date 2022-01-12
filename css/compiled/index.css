@@ -257,6 +257,7 @@
     #features .feature .info p {
       margin-top: 15px; }
       #features .feature div { margin-bottom: 66px; }
+      #features div.feature.noborder { border-bottom:0px !important; }
 
 /* Pricing charts
 -------------------------------------------------- */
