@@ -68,3 +68,11 @@
       .navbar ul.navbar-nav .open .dropdown-menu > li > a:hover {
         color: #fff;
         background: none; } }
+        .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+          border-color:#667e67;
+          background-color: #2e6b17;
+        }
+        .navbar-inverse .navbar-toggle {
+          border-color:#123e14;
+          background-color: #19541c;
+        }
