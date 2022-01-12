@@ -277,13 +277,13 @@ header {
         font-size: 16px;
         color: #777E83;
         line-height: 23px; }
-      #footer .info ul a {
+      #footer .info ul a, .privacy a {
         color: #777E83;
         -webkit-transition: color .2s;
         -moz-transition: color .2s;
         -ms-transition: color .2s;
         transition: color .2s; }
-        #footer .info ul a:hover {
+        #footer .info ul a:hover, .privacy a:hover {
           color: #A9B4BB; }
     #footer .info .touch {
       float: right; }
