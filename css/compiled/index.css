@@ -453,7 +453,9 @@
       font-size: 15px; } }
 @media (min-width: 768px) {
   #features .feature .pic-right {
-    float: right; }
+    float: right; 
+    margin-top:4em;
+  }
   #features .feature .info-left {
     float: left; } }
 @media (max-width: 767px) {
