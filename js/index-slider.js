@@ -362,7 +362,7 @@ $(document).ready(function () {
         });
         var f = setInterval(function () {
             i()
-        }, 4000)
+        }, 3600)
     }
     c();
     $(window).resize(function () {
